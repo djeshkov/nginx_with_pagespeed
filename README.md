@@ -6,7 +6,7 @@ Installation:
 sudo git clone https://github.com/djeshkov/nginx_with_pagespeed.git /tmp/nginx
 
 
-cd /tmp
+cd /tmp/nginx
 
 
 sudo dpkg -i nginx*
